@@ -10,7 +10,7 @@ Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvi
 Este é um site de portfólio totalmente responsivo e interativo. O objetivo é demonstrar minha experiência profissional e disponibilizar meios de contato. O design foca em uma navegação fluida com animações sutis para melhorar a experiência do usuário.
 
 ### 🌐 Live Demo
-[Clique aqui para acessar o portfólio online](https://seu-usuario.github.io/nome-do-repo)
+[Clique aqui para acessar o portfólio online](https://danieljr021.github.io/)
 
 ## 🛠 Tecnologias Utilizadas
 
